@@ -1,13 +1,13 @@
-# 👋 Hi, I'm DyMoon21
+# 👋 Hi, I'm MistyLunar
 
 ### Computer Science Student | Aspiring Software Engineer
 
-I'm a CS student learning programming and software development.
+I'm a Computer Science student passionate about software development and exploring emerging technologies.
 
 - 🌱 Currently learning C, C++, Java, Python and Data Structures
 - 💻 Interested in Backend Development and AI Agents
-- 🚀 Building projects and improving my coding skills
-- 📚 Learning Git, Linux and Computer Science fundamentals
+- 🚀 Building projects and exploring software engineering
+- 📚 Learning Computer Science fundamentals, Linux and Git
 
 ---
 
@@ -24,29 +24,29 @@ I'm a CS student learning programming and software development.
 
 ## 📂 Featured Projects
 
-- [C Learning](https://github.com/DyMoon21/C-learning)
-- [Data Structure](https://github.com/DyMoon21/Data-Structure)
-- [Java Learning](https://github.com/DyMoon21/Java-Learning)
+- [C Learning](https://github.com/MistyLunar/C-learning)
+- [Data Structure](https://github.com/MistyLunar/Data-Structure)
+- [Java Learning](https://github.com/MistyLunar/Java-Learning)
 
 ---
 
 ## 📊 GitHub Stats
 
-+ ![GitHub Stats](https://github-stats-extended.vercel.app/api?username=DyMoon21&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-stats-extended.vercel.app/api?username=MistyLunar&show_icons=true&theme=tokyonight)
 
 ---
 
 ## 🐍 My Contributions
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DyMoon21/DyMoon21/output/snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DyMoon21/DyMoon21/output/snake-light.svg">
-  <img alt="Snake animation eating my GitHub contribution grid" src="https://raw.githubusercontent.com/DyMoon21/DyMoon21/output/snake-light.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MistyLunar/MistyLunar/output/snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MistyLunar/MistyLunar/output/snake-light.svg">
+  <img alt="Snake animation eating my GitHub contribution grid" src="https://raw.githubusercontent.com/MistyLunar/MistyLunar/output/snake-light.svg">
 </picture>
 
 ---
 
 ## 📫 Connect with Me
 
-- GitHub: https://github.com/DyMoon21
+- GitHub: [MistyLunar](https://github.com/MistyLunar)
 - Email: yuedan892@gmail.com
