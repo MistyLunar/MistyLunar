@@ -47,5 +47,32 @@ I'm a Computer Science student passionate about software development, backend en
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MistyLunar&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MistyLunar
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=MistyLunar&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MistyLunar&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+### ⭐ GitHub Stars
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MistyLunar&theme=tokyonight" />
+</p>
+
+---
+
+### 🐍 Contribution Snake
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MistyLunar/MistyLunar/output/snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MistyLunar/MistyLunar/output/snake-light.svg" />
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/MistyLunar/MistyLunar/output/snake-light.svg" />
+  </picture>
+</p>
+
+---
+
+<p align="center">
+  <i>Keep learning. Keep building. Keep exploring. 🌙</i>
+</p>
