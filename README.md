@@ -45,12 +45,14 @@ I'm a Computer Science student passionate about software development, backend en
 ---
 
 
+
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MistyLunar&show_icons=true&theme=tokyonight&hide_border=true" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MistyLunar&layout=compact&theme=tokyonight&hide_border=true" height="180" />
+  <img src="https://github-stats-extended.vercel.app/api?username=MistyLunar&show_icons=true&theme=tokyonight&hide_border=true" height="180" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=MistyLunar&layout=compact&theme=tokyonight&hide_border=true" height="180" />
 </p>
+
 
 
 ---
@@ -78,3 +80,23 @@ I'm a Computer Science student passionate about software development, backend en
 <p align="center">
   <i>Keep learning. Keep building. Keep exploring. 🌙</i>
 </p>
+
+
+
+---
+
+### 📫 Contact Me
+
+<p align="center">
+  <a href="mailto:yuedan892@gmail.com">
+    <img src="https://img.shields.io/badge/Email-yuedan892%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/MistyLunar">
+    <img src="https://img.shields.io/badge/GitHub-MistyLunar-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <i>Keep learning. Keep building. Keep exploring. 🌙</i>
+</p>
+
