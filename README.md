@@ -86,10 +86,13 @@ I'm a Computer Science student passionate about software development, backend en
 ---
 
 
+---
+
 ### 📫 Contact Me
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Email-yuedan892%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  📧 Email: yuedan892@gmail.com
+  <br/>
   <a href="https://github.com/MistyLunar">
     <img src="https://img.shields.io/badge/GitHub-MistyLunar-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
