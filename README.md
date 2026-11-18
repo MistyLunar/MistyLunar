@@ -77,16 +77,6 @@ I'm a Computer Science student passionate about software development, backend en
 
 ---
 
-<p align="center">
-  <i>Keep learning. Keep building. Keep exploring. 🌙</i>
-</p>
-
-
-
----
-
-
----
 
 ### 📫 Contact Me
 
